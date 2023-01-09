@@ -26,7 +26,7 @@ License Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT/blob/
 
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ Gangster Hacking... ❱━➣
+╭━━━━❰ Renaming... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
@@ -36,7 +36,7 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 The Name is : {}
-├👑 ADMIN-TG : <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 
+├👑 ADMIN-TG : <a href=https://t.me/KhallMheTyler>KhallMheTyler</a> 
 ├👑 Instagram : <a href=https://www.instagram.com/LazyDeveloperrr>C-Insta</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
@@ -47,11 +47,11 @@ class mr(object):
 ╰───────────────⍟
                                 """
     HELP_TXT = """
-🌌 <b><u>HOW TO SET THUMBNILE</u></b>
+🌌 <b><u>HOW TO SET THUMBNAIL</u></b>
   
-•> /start a bot and send any picture to automatically set thumbnile.
-•> /delthumb use this command and delete your old thumbnile.
-•> /viewthumb use this command view your current thumbnile.
+•> /start a bot and send any picture to automatically set thumbnail.
+•> /delthumb use this command and delete your old thumbnail.
+•> /viewthumb use this command view your current thumbnail.
 
 📑 <b><u>HOW TO SET CUSTOM CAPTION</u></b>
 •> /set_caption - set a custom caption
@@ -74,8 +74,6 @@ Example:- /set_caption 📕 File Name: {filename}
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw>Watch Tutorial</a>
 
 • 😈 <a href=https://github.com/LazyDeveloperr>LazyDeveloper Github</a>
-• 😈 <a href=https://t.me/LazyDeveloper>LazyDeveloper Tg Channel</a>
-• 😈 <a href=https://t.me/mRiderDM>Direct-Msg-TG</a>
-• 😈 <a href=https://t.me/real_MoviesAdda1>Join Movies Adda</a>
+• 😈 <a href=https://t.me/TylerMoviesEmpire>TylerMoviesEmpire Tg Channel</a>
 • 😈 <a href=https://t.me/GitHub_noob>Thanks- Github Noob</a>
 """
