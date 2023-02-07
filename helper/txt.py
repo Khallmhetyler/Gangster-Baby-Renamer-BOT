@@ -37,7 +37,7 @@ class mr(object):
 ╭───────────⍟
 ├🤖 The Name is : {}
 ├👑 ADMIN-TG : <a href=https://t.me/KhallMheTyler>KhallMheTyler</a> 
-├👑 Instagram : <a href=https://www.instagram.com/odogwuisbad>C-Insta</a> 
+├👑 Instagram : <a href=https://www.instagram.com/odogwuisbad>TYLER</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
@@ -75,6 +75,6 @@ Example:- /set_caption 📕 File Name: {filename}
 
 • 😈 <a href=https://github.com/LazyDeveloperr>LazyDeveloper Github</a>
 • 😈 <a href=https://t.me/TylerMoviesEmpire>TylerMoviesEmpire Tg Channel</a>
-• 😈 <a href=https://t.me/mTylerMoviesEmpire>Direct-Msg-TG</a>
+• 😈 <a href=https://t.me/TylerMoviesEmpire>Direct-Msg-TG</a>
 • 😈 <a href=https://t.me/GitHub_noob>Thanks- Github Noob</a>
 """
