@@ -41,7 +41,7 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("😈 Developer 😈", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/TylerMoviesEmpire'),
+        InlineKeyboardButton('📢 Updates', url='https://t.me/TylerMoviesEmpire01'),
         InlineKeyboardButton('🤝 Support', url='https://t.me/TMERenamerSupport')
         ],[
         InlineKeyboardButton('⚡️ About', callback_data='about'),
@@ -49,7 +49,7 @@ async def start(client, message):
         ],[
         InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
         ],[
-        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/TylerMoviesEmpire')
+        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/TylerMoviesEmpire01')
         ],[
         InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/channel/UCcIQwdBeEy8XEoZd6FyqevA')
         ],[
@@ -100,7 +100,7 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
         InlineKeyboardButton("😈 Developer 😈", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/TylerMoviesEmpire'),
+        InlineKeyboardButton('📢 Updates', url='https://t.me/TylerMoviesEmpire01'),
         InlineKeyboardButton('🤝 Support', url='https://t.me/TMERenamerSupport')
         ],[
         InlineKeyboardButton('⚡️ About', callback_data='about'),
@@ -108,7 +108,7 @@ async def cb_handler(client, query: CallbackQuery):
         ],[
         InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
         ],[
-        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/TylerMoviesEmpire')
+        InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/TylerMoviesEmpire01')
         ],[
         InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
         ],[
@@ -127,7 +127,7 @@ async def cb_handler(client, query: CallbackQuery):
                ],[
                InlineKeyboardButton("❤️‍🔥 How to use me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
                ],[
-               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/TylerMoviesEmpire")
+               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/TylerMoviesEmpire01")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -160,7 +160,7 @@ async def cb_handler(client, query: CallbackQuery):
                ],[
                InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
                ],[
-                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/TylerMoviesEmpire")
+                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/TylerMoviesEmpire01")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
